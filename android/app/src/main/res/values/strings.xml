@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MULA</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDEDqxRMYX2xynyv3-jTJiniVKvwOy1Jl8</string>
+
+</resources>
